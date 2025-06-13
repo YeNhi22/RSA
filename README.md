@@ -84,19 +84,19 @@ Dự án được xây dựng bằng JavaScript và Web Crypto API, cung cấp g
 <h3>Giao diện ứng dụng</h3>
 
 <p align="center">
-  <img src="Screenshot-2025-06-13-213705.png" alt="Giao diện chính" width="400">
+  <img src="https://github.com/YeNhi22/RSA/blob/main/Screenshot%202025-06-13%20213705.png" alt="Tạo khóa" width="400">
 </p>
 
 <p align="center">
-  <img src="Screenshot-2025-06-13-213724.png" alt="Tạo khóa RSA" width="400">
+  <img src="https://github.com/YeNhi22/RSA/blob/main/Screenshot%202025-06-13%20213724.png" alt="Ký file" width="400">
 </p>
 
 <p align="center">
-  <img src="Screenshot-2025-06-13-213806.png" alt="Ký file" width="400">
+  <img src="https://github.com/YeNhi22/RSA/blob/main/Screenshot%202025-06-13%20213806.png" alt="Xác minh" width="400">
 </p>
 
 <p align="center">
-  <img src="Screenshot-2025-06-13-213911.png" alt="Xác minh chữ ký" width="400">
+  <img src="https://github.com/YeNhi22/RSA/blob/main/Screenshot%202025-06-13%20213911.png" alt="Chia sẻ" width="400">
 </p>
 
 <p>Nguyễn Vũ Yến Nhi - Khoa Công nghệ thông tin, Đại học Đại Nam</p>
